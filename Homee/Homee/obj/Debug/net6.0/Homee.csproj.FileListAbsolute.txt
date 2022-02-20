@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\bin\Debug\net6.0\Homee.exe
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\bin\Debug\net6.0\Homee.deps.json
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\bin\Debug\net6.0\Homee.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\bin\Debug\net6.0\Homee.dll
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\bin\Debug\net6.0\Homee.pdb
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\obj\Debug\net6.0\Homee.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\obj\Debug\net6.0\Homee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\obj\Debug\net6.0\Homee.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\obj\Debug\net6.0\Homee.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\obj\Debug\net6.0\Homee.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\obj\Debug\net6.0\Homee.dll
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\obj\Debug\net6.0\refint\Homee.dll
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\obj\Debug\net6.0\Homee.pdb
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\obj\Debug\net6.0\Homee.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\HomeWorkk\Homee\Homee\obj\Debug\net6.0\ref\Homee.dll
